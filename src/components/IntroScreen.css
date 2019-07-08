@@ -1,0 +1,17 @@
+.intro-screen {
+    min-height: 200px;
+    vertical-align: middle;
+    margin: auto;
+    line-height: 200px;
+    padding: 70px 0;
+    margin: 0rem 0 !important;
+}
+
+.intro-text {
+  line-height: 200px !important;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+}

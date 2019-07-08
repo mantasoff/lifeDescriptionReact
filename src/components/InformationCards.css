@@ -1,0 +1,8 @@
+.information-cards {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.information-cards div.ui.text {
+    padding-bottom: 25px;
+}
